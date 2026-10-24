@@ -131,8 +131,8 @@ def main() -> None:
             "quantity": "1",
             "type": card_type,
             "color": normalize_color_input(card_color),
-            "altArt": str(alt_art).lower(),
-            "overnumbered": str(overnumbered).lower(),
+            "altArt": str(alt_art).upper(),
+            "overnumbered": str(overnumbered).upper(),
             "image": image,
         }
 
