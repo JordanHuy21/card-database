@@ -84,7 +84,7 @@ Steadfast Outrider,RAD,9,UNIT,ORDER,FALSE,FALSE,steadfast-outrider-rad.avif
 Hunting Dog,RAD,16,UNIT,ORDER,FALSE,FALSE,hunting-dog-rad.avif
 Titanic Shrine,RAD,3,GEAR,BODY,FALSE,FALSE,titanic-shrine-rad.avif
 Nazuman Ntofo,RAD,13,GEAR,BODY,FALSE,FALSE,nazuman-ntofo-rad.avif
-Pillage Armory,RAD,13,GEAR,BODY,FALSE,FALSE,pillage-armory-rad.avif
+Pillage Armory,RAD,13,GEAR,BODY,FALSE,FALSE,pillaged-armory-rad.avif
 Cataclysm,RAD,2,SPELL,BODY,FALSE,FALSE,cataclysm-rad.avif
 Avalanche,RAD,1,SPELL,BODY,FALSE,FALSE,avalanche-rad.avif
 Primordial Roar,RAD,9,SPELL,BODY,FALSE,FALSE,primordial-roar-rad.avif
@@ -112,7 +112,7 @@ The Waters' Wage,RAD,12,SPELL,CHAOS,FALSE,FALSE,the-waters-wage-rad.avif
 Demon Shade,RAD,7,SPELL,CHAOS,FALSE,FALSE,demon-shade-rad.avif
 An Offer You Can't Refuse,RAD,7,SPELL,CHAOS,FALSE,FALSE,an-offer-you-cant-refuse-rad.avif
 Suave Negotiator,RAD,17,UNIT,CHAOS,FALSE,FALSE,suave-negotiator-rad.avif
-Rackless Innovator,RAD,6,UNIT,CHAOS,FALSE,FALSE,rackless-innovator-rad.avif
+Reckless Innovator,RAD,6,UNIT,CHAOS,FALSE,FALSE,reckless-innovator-rad.avif
 Disposal Expert,RAD,16,UNIT,CHAOS,FALSE,FALSE,disposal-expert-rad.avif
 Pitiless Stalker,RAD,9,UNIT,CHAOS,FALSE,FALSE,pitiless-stalker-rad.avif
 Momentary Companion,RAD,15,UNIT,CHAOS,FALSE,FALSE,momentary-companion-rad.avif
