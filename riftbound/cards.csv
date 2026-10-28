@@ -11,30 +11,30 @@ Storm Raptor,RAD,5,UNIT,CALM,FALSE,FALSE,storm-raptor-rad.avif
 Iridescent Avian,RAD,16,UNIT,CALM,FALSE,FALSE,iridescent-avian-rad.avif
 Entrenched Boar,RAD,8,UNIT,CALM,FALSE,FALSE,entrenched-boar-rad.avif
 Command:Attack,RAD,9,SPELL,CALM,FALSE,FALSE,commandattack-rad.avif
-Battle Preparations,RAD,6,SPELL,CALM,FALSE,FALSE,battle-preparations-rad.avif
+Battle Preparations,RAD,8,SPELL,CALM,FALSE,FALSE,battle-preparations-rad.avif
 Hunker Down,RAD,7,SPELL,CALM,FALSE,FALSE,hunker-down-rad.avif
 Life from Stone,RAD,13,SPELL,CALM,FALSE,FALSE,life-from-stone-rad.avif
-Consult the Heavens,RAD,14,SPELL,CALM,FALSE,FALSE,consult-the-heavens-rad.avif
+Consult the Heavens,RAD,15,SPELL,CALM,FALSE,FALSE,consult-the-heavens-rad.avif
 Ki Burst,RAD,17,SPELL,CALM,FALSE,FALSE,ki-burst-rad.avif
 Ephemeral Ward,RAD,6,GEAR,CALM,FALSE,FALSE,ephemeral-ward-rad.avif
 Blossoming Dreamroot,RAD,22,GEAR,CALM,FALSE,FALSE,blossoming-dreamroot-rad.avif
 Invigorating Bloom,RAD,8,GEAR,CALM,FALSE,FALSE,invigorating-bloom-rad.avif
-Banner of Conquest,RAD,16,GEAR,FURY,FALSE,FALSE,banner-of-conquest-rad.avif
+Banner of Conquest,RAD,17,GEAR,FURY,FALSE,FALSE,banner-of-conquest-rad.avif
 Runeblade Anvil,RAD,11,GEAR,FURY,FALSE,FALSE,runeblade-anvil-rad.avif
 Detonation Amplifier,RAD,3,GEAR,FURY,FALSE,FALSE,detonation-amplifier-rad.avif
 Scorched Earth,RAD,19,SPELL,FURY,FALSE,FALSE,scorched-earth-rad.avif
 Lost to the Sands,RAD,2,SPELL,FURY,FALSE,FALSE,lost-to-the-sands-rad.avif
 Rally for War,RAD,13,SPELL,FURY,FALSE,FALSE,rally-for-war-rad.avif
-Forbidden Technique,RAD,6,SPELL,FURY,FALSE,FALSE,forbidden-technique-rad.avif
+Forbidden Technique,RAD,7,SPELL,FURY,FALSE,FALSE,forbidden-technique-rad.avif
 Brawl,RAD,16,SPELL,FURY,FALSE,FALSE,brawl-rad.avif
-Coalesced Energy,RAD,4,UNIT,FURY,FALSE,FALSE,coalesced-energy-rad.avif
+Coalesced Energy,RAD,5,UNIT,FURY,FALSE,FALSE,coalesced-energy-rad.avif
 Firebrand Raider,RAD,3,UNIT,FURY,FALSE,FALSE,firebrand-raider-rad.avif
 Drakehound Packmaster,RAD,2,UNIT,FURY,FALSE,FALSE,drakehound-packmaster-rad.avif
 Shimmering Swimmer,RAD,15,UNIT,FURY,FALSE,FALSE,shimmering-swimmer-rad.avif
 Amateur Demolitionist,RAD,17,UNIT,FURY,FALSE,FALSE,amateur-demolitionist-rad.avif
-Lingering Animus,RAD,13,UNIT,FURY,FALSE,FALSE,lingering-animus-rad.avif
+Lingering Animus,RAD,14,UNIT,FURY,FALSE,FALSE,lingering-animus-rad.avif
 Bilgewater Tracker,RAD,13,UNIT,FURY,FALSE,FALSE,bilgewater-tracker-rad.avif
-War Scout,RAD,14,UNIT,FURY,FALSE,FALSE,war-scout-rad.avif
+War Scout,RAD,15,UNIT,FURY,FALSE,FALSE,war-scout-rad.avif
 Antagonistic Apparatus,RAD,7,UNIT,FURY,FALSE,FALSE,antagonistic-apparatus-rad.avif
 Incorrigible Construct,RAD,4,UNIT,FURY,FALSE,FALSE,incorrigible-construct-rad.avif
 Mordekaiser Twice Slain,RAD,4,MORDEKAISER TWICE SLAIN,FURY,FALSE,FALSE,mordekaiser-twice-slain-rad.avif
@@ -82,3 +82,45 @@ Demacian illuminators,RAD,2,UNIT,ORDER,FALSE,FALSE,demacian-illuminators-rad.avi
 Jarvan IV Royal Heir,RAD,5,UNIT,ORDER,FALSE,FALSE,jarvan-iv-royal-heir-rad.avif
 Steadfast Outrider,RAD,9,UNIT,ORDER,FALSE,FALSE,steadfast-outrider-rad.avif
 Hunting Dog,RAD,16,UNIT,ORDER,FALSE,FALSE,hunting-dog-rad.avif
+Titanic Shrine,RAD,3,GEAR,BODY,FALSE,FALSE,titanic-shrine-rad.avif
+Nazuman Ntofo,RAD,13,GEAR,BODY,FALSE,FALSE,nazuman-ntofo-rad.avif
+Pillage Armory,RAD,13,GEAR,BODY,FALSE,FALSE,pillage-armory-rad.avif
+Cataclysm,RAD,2,SPELL,BODY,FALSE,FALSE,cataclysm-rad.avif
+Avalanche,RAD,1,SPELL,BODY,FALSE,FALSE,avalanche-rad.avif
+Primordial Roar,RAD,9,SPELL,BODY,FALSE,FALSE,primordial-roar-rad.avif
+Hold'Em,RAD,13,SPELL,BODY,FALSE,FALSE,hold-em-rad.avif
+Portable Portal,RAD,3,SPELL,BODY,FALSE,FALSE,portable-portal-rad.avif
+Wrath of the Freljord,RAD,11,UNIT,BODY,FALSE,FALSE,wrath-of-the-freljord-rad.avif
+Graves Blasting Through,RAD,4,UNIT,BODY,FALSE,FALSE,graves-blasting-through-rad.avif
+Bloodscent Swarm,RAD,8,UNIT,BODY,FALSE,FALSE,bloodscent-swarm-rad.avif
+Overloaded Traveler,RAD,17,UNIT,BODY,FALSE,FALSE,overloaded-traveler-rad.avif
+Armored Tusker,RAD,11,UNIT,BODY,FALSE,FALSE,armored-tusker-rad.avif
+Stalwart Goatherd,RAD,6,UNIT,BODY,FALSE,FALSE,stalwart-goatherd-rad.avif
+Skystrike Squadron,RAD,20,UNIT,BODY,FALSE,FALSE,skystrike-squadron-rad.avif
+Sneaky Zeebles,RAD,13,UNIT,BODY,FALSE,FALSE,sneaky-zeebles-rad.avif
+Elnuk Herd,RAD,8,UNIT,BODY,FALSE,FALSE,elnuk-herd-rad.avif
+Raving Witness,RAD,19,UNIT,BODY,FALSE,FALSE,raving-witness-rad.avif
+Jarvan IV Martial Paragon,RAD,2,UNIT,BODY,FALSE,FALSE,jarvan-iv-martial-paragon-rad.avif
+Staunch Survivor,RAD,3,UNIT,BODY,FALSE,FALSE,staunch-survivor-rad.avif
+K'Sante Courageous,RAD,2,UNIT,BODY,FALSE,FALSE,ksante-courageous-rad.avif
+Mechanical Bandit,RAD,5,GEAR,CHAOS,FALSE,FALSE,mechanical-bandit-rad.avif
+Bushwhack Trap,RAD,3,GEAR,CHAOS,FALSE,FALSE,bushwhack-trap-rad.avif
+The Good Stuff,RAD,11,GEAR,CHAOS,FALSE,FALSE,the-good-stuff-rad.avif
+Siren's Song,RAD,14,SPELL,CHAOS,FALSE,FALSE,sirens-song-rad.avif
+Satchel Charge,RAD,16,SPELL,CHAOS,FALSE,FALSE,satchel-charge-rad.avif
+The Waters' Wage,RAD,12,SPELL,CHAOS,FALSE,FALSE,the-waters-wage-rad.avif
+Demon Shade,RAD,7,SPELL,CHAOS,FALSE,FALSE,demon-shade-rad.avif
+An Offer You Can't Refuse,RAD,7,SPELL,CHAOS,FALSE,FALSE,an-offer-you-cant-refuse-rad.avif
+Suave Negotiator,RAD,17,UNIT,CHAOS,FALSE,FALSE,suave-negotiator-rad.avif
+Rackless Innovator,RAD,6,UNIT,CHAOS,FALSE,FALSE,rackless-innovator-rad.avif
+Disposal Expert,RAD,16,UNIT,CHAOS,FALSE,FALSE,disposal-expert-rad.avif
+Pitiless Stalker,RAD,9,UNIT,CHAOS,FALSE,FALSE,pitiless-stalker-rad.avif
+Momentary Companion,RAD,15,UNIT,CHAOS,FALSE,FALSE,momentary-companion-rad.avif
+Lulu Whimsical,RAD,4,UNIT,CHAOS,FALSE,FALSE,lulu-whimsical-rad.avif
+Explosimian,RAD,18,UNIT,CHAOS,FALSE,FALSE,explosimian-rad.avif
+Gutter Guardian,RAD,5,UNIT,CHAOS,FALSE,FALSE,gutter-guardian-rad.avif
+Siren of the Shallows,RAD,17,UNIT,CHAOS,FALSE,FALSE,siren-of-the-shallows-rad.avif
+Transpositionist,RAD,1,UNIT,CHAOS,FALSE,FALSE,transpositionist-rad.avif
+Evelynn In Control,RAD,4,UNIT,CHAOS,FALSE,FALSE,evelynn-in-control-rad.avif
+Ziggs Explosive,RAD,3,UNIT,CHAOS,FALSE,FALSE,ziggs-explosive-rad.avif
+Bedeviling Stranger,RAD,3,UNIT,CHAOS,FALSE,FALSE,bedeviling-stranger-rad.avif
