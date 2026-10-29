@@ -143,4 +143,77 @@ Packed Amphitheater,RAD,7,BATTLEFIELD,NONE,FALSE,FALSE,packed-amphitheater-rad.a
 Ruined Monastery,RAD,6,BATTLEFIELD,NONE,FALSE,FALSE,ruined-monastery-rad.avif
 Black Market,RAD,7,BATTLEFIELD,NONE,FALSE,FALSE,black-market-rad.avif
 Mesmerize,VEN,1,SPELL,MIND,FALSE,FALSE,mesmerize-ven.avif
-
+Garbage Grabber,OGN,2,GEAR,MIND,FALSE,FALSE,garbage-grabber-ogn.avif
+Mushroom Pouch,OGN,1,GEAR,MIND,FALSE,FALSE,mushroom-pouch-ogn.avif
+Energy Conduit,OGN,2,GEAR,MIND,FALSE,FALSE,energy-conduit-ogn.avif
+Falling Comet,OGN,3,SPELL,MIND,FALSE,FALSE,falling-comet-ogn.avif
+Singularity,OGN,1,SPELL,MIND,FALSE,FALSE,singularity-ogn.avif
+Portal Rescue,OGN,1,SPELL,MIND,FALSE,FALSE,portal-rescue-ogn.avif
+Orb of Regret,OGN,8,SPELL,MIND,FALSE,FALSE,orb-of-regret-ogn.avif
+Smoke Screen,OGN,2,SPELL,MIND,FALSE,FALSE,smoke-screen-ogn.avif
+Retreat,OGN,3,SPELL,MIND,FALSE,FALSE,retreat-ogn.avif
+Convergent Mutation,OGN,1,SPELL,MIND,FALSE,FALSE,convergent-mutation-ogn.avif
+Blastcone Fae,OGN,1,UNIT,MIND,FALSE,FALSE,blastcone-fae-ogn.avif
+Consult the Past,OGN,3,SPELL,MIND,FALSE,FALSE,consult-the-past-ogn.avif
+Sprite Call,OGN,4,SPELL,MIND,FALSE,FALSE,sprite-call-ogn.avif
+Stupefy,OGN,2,SPELL,MIND,FALSE,FALSE,stupefy-ogn.avif
+Gemcraft Seer,OGN,2,UNIT,MIND,FALSE,FALSE,gemcraft-seer-ogn.avif
+Riptide Rex,OGN,4,UNIT,MIND,FALSE,FALSE,riptide-rex-ogn.avif
+Pit Crew,OGN,4,UNIT,MIND,FALSE,FALSE,pit-crew-ogn.avif
+Watchful Sentry,OGN,4,UNIT,MIND,FALSE,FALSE,watchful-sentry-ogn.avif
+Sprite Mother,OGN,2,UNIT,MIND,FALSE,FALSE,sprite-mother-ogn.avif
+Jeweled Colossus,OGN,5,UNIT,MIND,FALSE,FALSE,jeweled-colossus-ogn.avif
+Eager Apprentice,OGN,7,UNIT,MIND,FALSE,FALSE,eager-apprentice-ogn.avif
+Ekko Recurrent,OGN,1,UNIT,MIND,FALSE,FALSE,ekko-recurrent-ogn.avif
+Malzahar Fanatic,OGN,1,UNIT,MIND,FALSE,FALSE,malzahar-fanatic-ogn.avif
+Dr.Mundo Expert,OGN,1,UNIT,MIND,FALSE,FALSE,drmundo-expert-ogn.avif
+Lecturing Yordle,OGN,2,UNIT,MIND,FALSE,FALSE,lecturing-yordle-ogn.avif
+Ava Achiever,OGN,1,UNIT,MIND,FALSE,FALSE,ava-achiever-ogn.avif
+Ravenbloom Student,OGN,3,UNIT,MIND,FALSE,FALSE,ravenbloom-student-ogn.avif
+Mega-Mech,OGN,4,UNIT,MIND,FALSE,FALSE,mega-mech-ogn.avif
+Wraith of Echoes,OGN,1,UNIT,MIND,FALSE,FALSE,wraith-of-echoes-ogn.avif
+Chemtech Cask,SFD,6,GEAR,MIND,FALSE,FALSE,chemtech-cask-sfd.avif
+World Atlas,SFD,1,GEAR,MIND,FALSE,FALSE,world-atlas-sfd.avif
+Hextech Anomaly,SFD,3,GEAR,MIND,FALSE,FALSE,hextech-anomaly-sfd.avif
+Temporal Portal,SFD,5,GEAR,MIND,FALSE,FALSE,temporal-portal-sfd.avif
+Experimental Hexplate,SFD,4,GEAR,MIND,FALSE,FALSE,experimental-hexplate-sfd.avif
+Cloth Armor,SFD,8,GEAR,MIND,FALSE,FALSE,cloth-armor-sfd.avif
+Frigid Touch,SFD,7,SPELL,MIND,FALSE,FALSE,frigid-touch-sfd.avif
+Wages of Pain,SFD,9,SPELL,MIND,FALSE,FALSE,wages-of-pain-sfd.avif
+Rocket Barrage,SFD,3,SPELL,MIND,FALSE,FALSE,rocket-barrage-sfd.avif
+Bard Mercurial,SFD,1,UNIT,MIND,FALSE,FALSE,bard-mercurial-sfd.avif
+Ornn Forge God,SFD,2,UNIT,MIND,FALSE,FALSE,ornn-forge-god-sfd.avif
+Card Sharp,SFD,1,UNIT,MIND,FALSE,FALSE,card-sharp-sfd.avif
+Rumble Scrapper,SFD,1,UNIT,MIND,FALSE,FALSE,rumble-scrapper-sfd.avif
+Ezreal Dashing,SFD,2,UNIT,MIND,FALSE,FALSE,ezreal-dashing-sfd.avif
+Frostcoat Cub,SFD,8,UNIT,MIND,FALSE,FALSE,frostcoat-cub-sfd.avif
+Aspiring Engineer,SFD,5,UNIT,MIND,FALSE,FALSE,aspiring-engineer-sfd.avif
+Gearhead,SFD,9,UNIT,MIND,FALSE,FALSE,gearhead-sfd.avif
+Dropboarder,SFD,3,UNIT,MIND,FALSE,FALSE,dropboarder-sfd.avif
+Forecaster,SFD,9,UNIT,MIND,FALSE,FALSE,forecaster-sfd.avif
+Breakneck Mech,SFD,4,UNIT,MIND,FALSE,FALSE,breakneck-mech-sfd.avif
+Prize of Progress,SFD,3,UNIT,MIND,FALSE,FALSE,prize-of-progress-sfd.avif
+Bubble Bot,SFD,7,UNIT,MIND,FALSE,FALSE,bubble-bot-sfd.avif
+Plundering Poro,SFD,3,UNIT,MIND,FALSE,FALSE,plundering-poro-sfd.avif
+Diana Lunari,UNL,5,UNIT,MIND,FALSE,FALSE,diana-lunari-unl.avif
+Lillia Fae Fawn,UNL,1,UNIT,MIND,FALSE,FALSE,lillia-fae-fawn-unl.avif
+Zilean Time Mage,UNL,1,UNIT,MIND,FALSE,FALSE,zilean-time-mage-unl.avif
+Sprite Queen,UNL,5,UNIT,MIND,FALSE,FALSE,sprite-queen-unl.avif
+Dramatic Visionary,UNL,7,UNIT,MIND,FALSE,FALSE,dramatic-visionary-unl.avif
+Petal Pixie,UNL,3,UNIT,MIND,FALSE,FALSE,petal-pixie-unl.avif
+Soul Shepherd,UNL,3,UNIT,MIND,FALSE,FALSE,soul-shepherd-unl.avif
+Chakram Dancer,UNL,3,UNIT,MIND,FALSE,FALSE,chakram-dancer-unl.avif
+Gustwalker,UNL,4,UNIT,MIND,FALSE,FALSE,gustwalker-unl.avif
+Icevale Archer,UNL,9,UNIT,MIND,FALSE,FALSE,icevale-archer-unl.avif
+Ruined Rex,UNL,9,UNIT,MIND,FALSE,FALSE,ruined-rex-unl.avif
+Fate Weaver,UNL,7,UNIT,MIND,FALSE,FALSE,fate-weaver-unl.avif
+Spectral Centaur,UNL,7,UNIT,MIND,FALSE,FALSE,spectral-centaur-unl.avif
+Frigid Jewel,UNL,3,GEAR,MIND,FALSE,FALSE,frigid-jewel-unl.avif
+Sumpworks Map,UNL,1,GEAR,MIND,FALSE,FALSE,sumpworks-map-unl.avif
+Sprite Burst,UNL,7,SPELL,MIND,FALSE,FALSE,sprite-burst-unl.avif
+Moonlight Affliction,UNL,6,SPELL,MIND,FALSE,FALSE,moonlight-affliction-unl.avif
+Eclipse,UNL,9,SPELL,MIND,FALSE,FALSE,eclipse-unl.avif
+Downstage Dramatics,UNL,10,SPELL,MIND,FALSE,FALSE,downstage-dramatics-unl.avif
+Turn to Dust,UNL,9,SPELL,MIND,FALSE,FALSE,turn-to-dust-unl.avif
+Crescent Strike,UNL,5,SPELL,MIND,FALSE,FALSE,crescent-strike-unl.avif
+Deadly Flourish,UNL,2,SPELL,MIND,FALSE,FALSE,deadly-flourish-unl.avif
